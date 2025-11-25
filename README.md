@@ -1,6 +1,8 @@
 # STAIR-CASE-WIRING
+### Name:Thirukkumaran R
+### Reg no:212224080058
 
-AIM
+# AIM
 To control the status of the given lamp by using two – way switches.
 
 
